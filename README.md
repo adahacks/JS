@@ -1,2 +1,1 @@
-# JS
-# JS
+Ejercicios de JavaScript
